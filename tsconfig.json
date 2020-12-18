@@ -19,5 +19,6 @@
     "tsBuildInfoFile": ".tsbuildinfo"
   },
   "exclude": ["node_modules"],
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"]
+	"include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+	"files": ["twin.d.ts"]
 }
