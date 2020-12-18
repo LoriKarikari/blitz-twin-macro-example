@@ -63,7 +63,7 @@ You can read more about it on the [CLI Overview](https://blitzjs.com/docs/cli-ov
 Here is the structure of your app.
 
 ```
-twin-macro-tw
+blitz-twin-macro-example
 ├── app
 │   |── auth
 │   │   ├── components
