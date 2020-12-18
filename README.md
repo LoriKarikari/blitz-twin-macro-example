@@ -2,7 +2,7 @@
 
 This is a [Blitz.js](https://github.com/blitz-js/blitz) app.
 
-# **name**
+# Blitz with twin.macro Example
 
 ## Getting Started
 
